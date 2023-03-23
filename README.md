@@ -1,2 +1,2 @@
 # logica2020
-Lógica de Programação 2020 - Juan
+Repositório criado a fim de armazenar trabalhos e exercícios da diciplina de Lógica de Programação ao longo do ano de 2020.
